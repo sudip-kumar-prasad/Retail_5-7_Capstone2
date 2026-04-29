@@ -4,6 +4,7 @@
 
 **Tableau Public URLs**: 
 - **Executive Dashboard**: [View on Tableau Public](https://public.tableau.com/views/5-7_Capstone/ExecutiveDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Customer Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/sudip.prasad/viz/5-7_Capstone/CustomerDashboard?publish=yes)
 - **Product Performance Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/sudip.prasad/viz/5-7_Capstone/ProductPerformanceDashboard?publish=yes)
 
 ### Dashboard Features
