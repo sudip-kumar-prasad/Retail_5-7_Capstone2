@@ -2,7 +2,9 @@
 
 ## Global Superstore: Sales Performance & Profitability Dashboard
 
-**Tableau Public URL**: *(To be updated after publishing)*
+**Tableau Public URLs**: 
+- **Executive Dashboard**: [View on Tableau Public](https://public.tableau.com/views/5-7_Capstone/ExecutiveDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Product Performance Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/sudip.prasad/viz/5-7_Capstone/ProductPerformanceDashboard?publish=yes)
 
 ### Dashboard Features
 Based on the latest visualisations, the Tableau workbook is structured into three primary dashboards providing a comprehensive view of the Superstore's performance:
